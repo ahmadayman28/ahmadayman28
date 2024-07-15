@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third year student, Department of Operation Research and Decision Support, Faculty of Computers and Artificial Intelligence, Cairo University.<br>Currently I am walking in the approach of learning data science, machine learning and competitive programming.
+Senior Student, Department of Operation Research and Decision Support, Faculty of Computers and Artificial Intelligence, Cairo University.<br>Currently I am walking in the approach of learning data science, machine learning and competitive programming.
 
 
 ## 🌐 Socials:
